@@ -85,4 +85,12 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
+.wrap {
+  background: url(https://raw.githubusercontent.com/Mangecu/Japan-Travel-Project/gh-pages/assets/imgs/mainImg_bg.jpg) no-repeat center;
+  background-size: cover;
+  min-height: 962px;
+  display: grid;
+  grid-template-rows: 143px 1fr;
+}
+
 /*# sourceMappingURL=style.css.map */
